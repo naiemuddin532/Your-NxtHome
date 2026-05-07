@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\rateowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\rateowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\rateowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\rateowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\viewpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\viewpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\developer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\developer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\admineditpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\admineditpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\wishlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\wishlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\admineditpost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\admineditpost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\admineditpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\admineditpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\createpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\createpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\bookingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\bookingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\yournxthome\\bookingapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\bookingapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\viewpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\viewpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\userinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\userinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\createpost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\createpost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\bookingapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\bookingapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\bookingapproval.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\bookingapproval.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\chatwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\createpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\createpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\rateowner.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\rateowner.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|c:\\users\\naiem\\desktop\\codes\\my projects\\yournxthome\\yournxthome\\chatwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92F062-8C1D-4F40-67AD-D0EB461FCFFB}|YourNxtHome\\YourNxtHome.csproj|solutionrelative:yournxthome\\chatwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 327,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Signup.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Signup.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Signup.cs",
+              "RelativeToolTip": "YourNxtHome\\Signup.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:02:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\UserDashboard.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\UserDashboard.cs",
+              "RelativeToolTip": "YourNxtHome\\UserDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:07:48.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Signup.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Signup.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Signup.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:51:13.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Signin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Signin.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Signin.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Signin.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Signin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:35:45.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Signin.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Signin.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Signin.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Signin.cs",
+              "RelativeToolTip": "YourNxtHome\\Signin.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:35:47.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgotPass.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ForgotPass.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\ForgotPass.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ForgotPass.cs",
+              "RelativeToolTip": "YourNxtHome\\ForgotPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:54:16.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RateOwner.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\RateOwner.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\RateOwner.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\RateOwner.cs",
+              "RelativeToolTip": "YourNxtHome\\RateOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:06:01.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\UserDashboard.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\UserDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\UserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:51:28.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RateOwner.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\RateOwner.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\RateOwner.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\RateOwner.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\RateOwner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:05:58.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgotPass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ForgotPass.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\ForgotPass.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\ForgotPass.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\ForgotPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:36:43.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Wishlist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Wishlist.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Wishlist.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Wishlist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:51:13.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Guest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Guest.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Guest.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Guest.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Guest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:37:12.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewPost.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ViewPost.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\ViewPost.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\ViewPost.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\ViewPost.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:31:42.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutUs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\AboutUs.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\AboutUs.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\AboutUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:28:53.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\UserInfo.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\UserInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\UserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:32:03.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Developer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Developer.Designer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Developer.Designer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Developer.Designer.cs",
+              "RelativeToolTip": "YourNxtHome\\Developer.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAADgv4UAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:18:56.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Developer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Developer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Developer.cs",
+              "RelativeToolTip": "YourNxtHome\\Developer.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAowAkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:21:08.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mainpage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Mainpage.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Mainpage.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Mainpage.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Mainpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:37:17.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\AboutUs.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\AboutUs.cs",
+              "RelativeToolTip": "YourNxtHome\\AboutUs.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T02:25:04.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mainpage.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Mainpage.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Mainpage.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Mainpage.cs",
+              "RelativeToolTip": "YourNxtHome\\Mainpage.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T02:25:23.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Users.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Users.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Users.cs",
+              "RelativeToolTip": "YourNxtHome\\Users.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:57:24.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Admineditpost.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Admineditpost.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Admineditpost.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Admineditpost.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Admineditpost.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:15:20.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admineditpost.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Admineditpost.Designer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Admineditpost.Designer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Admineditpost.Designer.cs",
+              "RelativeToolTip": "YourNxtHome\\Admineditpost.Designer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAA9wJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:15:26.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Wishlist.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Wishlist.Designer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Wishlist.Designer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Wishlist.Designer.cs",
+              "RelativeToolTip": "YourNxtHome\\Wishlist.Designer.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAwwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:16:30.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admineditpost.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Admineditpost.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Admineditpost.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Admineditpost.cs",
+              "RelativeToolTip": "YourNxtHome\\Admineditpost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:31:30.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookingPopup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\BookingPopup.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\BookingPopup.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\BookingPopup.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\BookingPopup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:01:42.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChatWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ChatWindow.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\ChatWindow.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\ChatWindow.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\ChatWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:03:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreatePost.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\CreatePost.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\CreatePost.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\CreatePost.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\CreatePost.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:09:07.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Bookingapproval.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Bookingapproval.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Bookingapproval.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Bookingapproval.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\YourNxtHome\\YourNxtHome\\YourNxtHome\\Bookingapproval.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:33:33.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ViewPost.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ViewPost.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\ViewPost.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ViewPost.cs",
+              "RelativeToolTip": "YourNxtHome\\ViewPost.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAlwGsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:25:48.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Mainpage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Mainpage.Designer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Mainpage.Designer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Mainpage.Designer.cs",
+              "RelativeToolTip": "YourNxtHome\\Mainpage.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwI0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:59:55.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\UserInfo.Designer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\UserInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\UserInfo.Designer.cs",
+              "RelativeToolTip": "YourNxtHome\\UserInfo.Designer.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAUwIgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:18:41.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreatePost.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\CreatePost.Designer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\CreatePost.Designer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\CreatePost.Designer.cs",
+              "RelativeToolTip": "YourNxtHome\\CreatePost.Designer.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAcwGQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:09:13.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Bookingapproval.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Bookingapproval.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Bookingapproval.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Bookingapproval.cs",
+              "RelativeToolTip": "YourNxtHome\\Bookingapproval.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:43:03.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Bookingapproval.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Bookingapproval.Designer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Bookingapproval.Designer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Bookingapproval.Designer.cs",
+              "RelativeToolTip": "YourNxtHome\\Bookingapproval.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:42:43.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Wishlist.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\Wishlist.cs",
+              "RelativeToolTip": "YourNxtHome\\Wishlist.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:56:44.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChatWindow.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ChatWindow.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\ChatWindow.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ChatWindow.cs",
+              "RelativeToolTip": "YourNxtHome\\ChatWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:04:09.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreatePost.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\CreatePost.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\CreatePost.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\CreatePost.cs",
+              "RelativeToolTip": "YourNxtHome\\CreatePost.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:09:15.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RateOwner.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\RateOwner.Designer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\RateOwner.Designer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\RateOwner.Designer.cs",
+              "RelativeToolTip": "YourNxtHome\\RateOwner.Designer.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAUwAsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:06:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChatWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ChatWindow.Designer.cs",
+              "RelativeDocumentMoniker": "YourNxtHome\\ChatWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\naiem\\Desktop\\codes\\My Projects\\YourNxtHome\\YourNxtHome\\ChatWindow.Designer.cs",
+              "RelativeToolTip": "YourNxtHome\\ChatWindow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:04:33.67Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
